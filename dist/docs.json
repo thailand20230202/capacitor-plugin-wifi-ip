@@ -1,0 +1,25 @@
+{
+  "api": {
+    "name": "WifiIpPlugin",
+    "slug": "wifiipplugin",
+    "docs": "",
+    "tags": [],
+    "methods": [
+      {
+        "name": "getIP",
+        "signature": "() => Promise<{ ip: string | null; }>",
+        "parameters": [],
+        "returns": "Promise<{ ip: string | null; }>",
+        "tags": [],
+        "docs": "",
+        "complexTypes": [],
+        "slug": "getip"
+      }
+    ],
+    "properties": []
+  },
+  "interfaces": [],
+  "enums": [],
+  "typeAliases": [],
+  "pluginConfigs": []
+}

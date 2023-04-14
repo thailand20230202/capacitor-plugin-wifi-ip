@@ -1,0 +1,1 @@
+{"version":3,"file":"definitions.js","sourceRoot":"","sources":["../../src/definitions.ts"],"names":[],"mappings":"","sourcesContent":["export interface WifiIpPlugin {\r\n  getIP(): Promise<{ ip: string | null }>;\r\n}\r\n"]}
